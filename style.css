@@ -1,0 +1,39 @@
+/* Acá va tu código */
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2016/02/19/11/29/present-1209742_960_720.jpg);
+    color: #310b08 ;
+    text-align: center
+}
+#imgOne{
+    float: right;
+}
+#cipherText{
+    width: 25%;
+    height: 25%;
+    padding: 5%;
+    background: #b1ab9a;
+    border: 1px solid #e0d7d0;
+    opacity:0.8;
+}
+#offset{
+    width: 20%;
+    height: 20%;
+    background: #b1ab9a;
+    border: 1px solid #e0d7d0;
+    opacity:0.8;
+}
+button{
+    width: 20%;
+    height: 20%;
+    background: #b1ab9a;
+    border: 1px solid #e5e2b6 ;
+    color: #e5e2b6;
+    background:  #d40036
+}
+#root{
+    width: auto;
+    height: 25%;
+    padding: 5%;
+    background: #b1ab9a;
+    border: 1px solid #e0d7d0;
+}
