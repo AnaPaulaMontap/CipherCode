@@ -1,39 +1,45 @@
-/* Acá va tu código */
+/* Acá va tu código *  --- url(https://cdn.pixabay.com/photo/2014/12/16/21/59/gifts-570821_960_720.jpg)*/ 
 body {
-    background-image: url(https://cdn.pixabay.com/photo/2016/02/19/11/29/present-1209742_960_720.jpg);
-    color: #310b08 ;
-    text-align: center
-}
-#imgOne{
-    float: right;
+    background-image:url(https://images.pexels.com/photos/1303081/pexels-photo-1303081.jpeg?auto=compress&cs=tinysrgb&h=650&w=940);
+    background-size: 100%;
+    text-align: center;
+    color: #e5e2b6;
+    padding: 3%;
+        
 }
 #cipherText{
-    width: 25%;
+    width: 80%;
     height: 25%;
     padding: 5%;
-    background: #b1ab9a;
-    border: 1px solid #e0d7d0;
-    opacity:0.8;
+    background: #edf0c7;
+    border: 1px solid #310b08;
+    opacity: 0.9;
+    
 }
 #offset{
     width: 20%;
     height: 20%;
-    background: #b1ab9a;
-    border: 1px solid #e0d7d0;
-    opacity:0.8;
+    background: #edf0c7;
+    border: 1px solid #310b08;
+    opacity: 0.9;
 }
 button{
     width: 20%;
     height: 20%;
-    background: #b1ab9a;
     border: 1px solid #e5e2b6 ;
     color: #e5e2b6;
-    background:  #d40036
+    background:  #b71c1c 
 }
 #root{
-    width: auto;
+    width: 80%;
     height: 25%;
     padding: 5%;
-    background: #b1ab9a;
-    border: 1px solid #e0d7d0;
+    background: #edf0c7;
+    border: 1px solid #310b08;
+    opacity: 0.9;
+    margin: 0 5%;
+    color: black;
+   
 }
+
+
